@@ -1,6 +1,6 @@
-# Assignment 2: Deep Q-Network and its imporvement
+# Deep Q-Network and its imporvements
 
-*Note, Please put all code files in the same folder for running!*
+*Please note, all code files should be placed in the same folder to run the program.*
 
 How to reproduce our results?
 
